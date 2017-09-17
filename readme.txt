@@ -1,0 +1,7 @@
+Malembeti Rick et Jose pansa
+TPS FAA
+Le tp1 est implementé dans le fichier MesurePerf.python
+Le tp2 est implementé dans le fichier MoindreCarre.python
+Le tp3 est implementé dans les fichiers descente_gradient_batch.python et descente_gradient_stochastique.python
+Le tp4 est implementé dans les fichiers SurApprentissage0.python SurApprentissage1.python SurApprentissage2.python
+Le tp5 est implementé dans le fichier regression_logistique.python
